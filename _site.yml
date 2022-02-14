@@ -9,4 +9,4 @@ navbar:
       href: Deb.html 
 output:
   html_document:
-  theme: united
+    theme: united
