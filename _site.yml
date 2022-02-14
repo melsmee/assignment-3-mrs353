@@ -8,5 +8,5 @@ navbar:
     - text: "Deb"
       href: Deb.html 
 output:
-  html document:
+  html_document:
   theme: united
