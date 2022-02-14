@@ -1,0 +1,22 @@
+---
+title: "Welcome to my website"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+___
+<br>
+
+Collaborators:
+
+- Melanie Smee: mrs353: <https://github.com/melsmee>
+- Deborah Carlin: dfc87: <https://github.com/dfc87>
+
+
+<center>![](https://avatars3.githubusercontent.com/u/2036237?v=4)</center>
+<center>Image from <www.lab.github.com></center>
+

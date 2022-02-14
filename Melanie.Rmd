@@ -1,0 +1,29 @@
+---
+title: "Melanie"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+___
+<br>
+
+Some information about me...
+
+- I am from the UK but have lived in Ithaca for 5.5 years
+
+- I work in the Microbiology Dept. but think I am more of an evolutionary/microbial ecologist - I've worked on various things!
+
+- In my spare time I love being outside and doing sports - kayaking, climbing, running, cycling, horse-riding... I'll try anything.
+
+
+
+
+
+
+
+
+
+
